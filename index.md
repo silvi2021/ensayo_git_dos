@@ -9,3 +9,8 @@ Trabajadora en Microsystem
 ## intereses
 - Construir páginas web
 - Trabajar en entornos ágiles
+
+## Pasatiempos
+- Ver peliculas
+- Estudiar inglés
+- Escuchar música
