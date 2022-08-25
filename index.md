@@ -5,3 +5,7 @@ Trabajadora en Microsystem
 ## Habilidades
 - Linux
 - Git y Github
+
+## intereses
+- Construir páginas web
+- Trabajar en entornos ágiles
